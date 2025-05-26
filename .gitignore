@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.envrc
+.venv/
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+*.bak
+
+# MoviePy temp files
+*.mp4.temp
+temp_glitched.mp4
+temp_*.mp4
+moviepy_edit_*.*
+*.avi
+
+# Output videos
+*.mp4
+*.webm
+*.mov
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# macOS and system
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
