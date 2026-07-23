@@ -1,3 +1,41 @@
+# streamlit-glitchfx
+
+A project by Neal Frazier
+
+## Overview
+This repository is part of Neal Frazier project collection.
+
+## Tech Stack
+- Python
+
+## Project Structure
+```
+streamlit-glitchfx/
+  - 
+  (15 files total)
+```
+
+## Getting Started
+
+### Prerequisites
+- Python 3.10+
+
+### Installation
+```bash
+git clone https://github.com/1nc0gn30/streamlit-glitchfx.git
+cd streamlit-glitchfx
+pip install -r requirements.txt
+```
+
+### Run
+```bash
+python main.py
+```
+
+## Original README
+<details>
+<summary>Click to expand original README</summary>
+
 # 🎛️ Glitch Video Lab
 
 **Glitch Video Lab** is a browser-based tool built with [Streamlit](https://streamlit.io) for applying advanced glitch and datamosh effects to your videos using Python, OpenCV, and MoviePy.
@@ -95,3 +133,26 @@ Export for TikTok/Reels
 ⚠️ Disclaimer
 
 This app is for creative and educational purposes only. Don’t use it for shady stuff — or do, but don’t tell us 😎.
+
+</details>
+
+## TODO / Roadmap
+- [ ] Add unit tests
+- [ ] Add LICENSE file
+- [ ] Add CI/CD pipeline
+- [ ] Add contribution guidelines (CONTRIBUTING.md)
+- [ ] Improve error handling and edge cases
+- [ ] Add environment variable documentation
+- [ ] Add code comments and inline documentation
+
+## Deployment
+This project can be deployed to Netlify, Vercel, or any static host.
+
+## Author
+**Neal Frazier** - [@AshAmplifies](https://github.com/1nc0gn30)
+
+## Links
+- GitHub: https://github.com/1nc0gn30/streamlit-glitchfx
+
+---
+*This README was enhanced as part of the neals-projects-2026 batch update.*
