@@ -1,38 +1,50 @@
-# streamlit-glitchfx
+<!-- xonettn -->
+<div align="center">
+
+# 🐍 Streamlit Glitchfx
 
 A project by Neal Frazier
 
-## Overview
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
+![Deploy](https://img.shields.io/badge/Deployed-Netlify-00C7B7?logo=netlify&logoColor=white)
+
+</div>
+
+---
+
+## 📋 Overview
 This repository is part of Neal Frazier project collection.
 
-## Tech Stack
+## 📦 Tech Stack
 - Python
 
-## Project Structure
+## 🗂️ Project Structure
 ```
 streamlit-glitchfx/
   - 
   (15 files total)
 ```
 
-## Getting Started
+## 🚀 Getting Started
 
-### Prerequisites
+### 📋 Prerequisites
 - Python 3.10+
 
-### Installation
+### 📦 Installation
 ```bash
 git clone https://github.com/1nc0gn30/streamlit-glitchfx.git
 cd streamlit-glitchfx
 pip install -r requirements.txt
 ```
 
-### Run
+### 🚀 Run
 ```bash
 python main.py
 ```
 
-## Original README
+## 📂 Original README
 <details>
 <summary>Click to expand original README</summary>
 
@@ -136,7 +148,7 @@ This app is for creative and educational purposes only. Don’t use it for shady
 
 </details>
 
-## TODO / Roadmap
+## 📝 TODO / Roadmap
 - [ ] Add unit tests
 - [ ] Add LICENSE file
 - [ ] Add CI/CD pipeline
@@ -145,14 +157,22 @@ This app is for creative and educational purposes only. Don’t use it for shady
 - [ ] Add environment variable documentation
 - [ ] Add code comments and inline documentation
 
-## Deployment
+## 🚀 Deployment
 This project can be deployed to Netlify, Vercel, or any static host.
 
-## Author
+## 👤 Author
 **Neal Frazier** - [@AshAmplifies](https://github.com/1nc0gn30)
 
-## Links
+## 🔗 Links
 - GitHub: https://github.com/1nc0gn30/streamlit-glitchfx
 
 ---
 *This README was enhanced as part of the neals-projects-2026 batch update.*
+
+---
+
+<div align="center">
+
+**[xonettn]** · Built by [Neal Frazier](https://github.com/1nc0gn30) · [@AshAmplifies](https://twitter.com/AshAmplifies)
+
+</div>
