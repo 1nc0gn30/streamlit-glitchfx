@@ -77,8 +77,8 @@ Then open your browser to http://localhost:8501.
 
 🧠 Author
 
-Neal Frazier Tech
-🔗 nealfrazier.tech
+1nc0gn30
+🔗 nullai.tech
 🐙 github.com/1nc0gn30
 🕳️ Future Ideas
 
