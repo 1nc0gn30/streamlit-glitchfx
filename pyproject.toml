@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "streamlit-glitchfx"
+version = "2.0.0"
+description = "Deterministic, seed-reproducible image glitch-art engine, headless CLI, and Streamlit studio."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "Neal Frazier", email = "1nc0gn30@users.noreply.github.com" },
+]
+dependencies = [
+    "Pillow>=10.0.0",
+    "numpy>=1.26.0",
+]
+
+[project.optional-dependencies]
+app = [
+    "streamlit>=1.36.0",
+]
+video = [
+    "opencv-python-headless>=4.9.0",
+    "moviepy==1.0.3",
+    "imageio>=2.31.1",
+    "imageio-ffmpeg>=0.4.7",
+]
+dev = [
+    "pytest>=8.0.0",
+]
+
+[project.scripts]
+glitchfx = "glitchfx.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["glitchfx*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
